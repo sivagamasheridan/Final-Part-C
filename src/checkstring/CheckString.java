@@ -8,7 +8,6 @@ package checkstring;
 /** This class to checks the given string has any repeated character or not.
  * Complete this method and test this method in JUnit.
  * @author srinivsi August 
- Token : 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
   */
 public class CheckString {
 
